@@ -1,0 +1,12 @@
+.parent{
+    background-color: lightblue;
+    height: 200px;
+    width: 200px;
+    position: relative;
+}
+
+
+.child{
+    margin: 0;
+   
+}
